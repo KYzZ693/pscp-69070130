@@ -132,7 +132,7 @@ Step 2: ใช้ if condition ในการจับคู่สีและ 
 Input:
 
 ```
-ํYellow
+Yellow
 White
 ```
 
