@@ -21,7 +21,7 @@ OJ3024 - SurprisingVote
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-549426
+565740
 ```
 
 สถานะ OJ:
